@@ -213,7 +213,7 @@ predict(sample_video)
 How about [this video](https://commons.wikimedia.org/wiki/File:End_of_a_jam.ogv) by Patrick Gillett: 
 """
 
-#!curl -O https://upload.wikimedia.org/wikipedia/commons/8/86/End_of_a_jam.ogv
+!curl -O https://upload.wikimedia.org/wikipedia/commons/8/86/End_of_a_jam.ogv
 
 video_path = "End_of_a_jam.ogv"
 
